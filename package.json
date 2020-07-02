@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "creating module test",
+  "main": "index.js",
+  "scripts": {
+    "test": "command"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qmg-amir/node-test.git"
+  },
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qmg-amir/node-test/issues"
+  },
+  "homepage": "https://github.com/qmg-amir/node-test#readme"
+}
